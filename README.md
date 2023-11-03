@@ -9,7 +9,6 @@ Key Features:
 - Trash can & soft delete 🗑️
 - Authentication 🔐 
 - File upload
-- File deletion
 - File replacement
 - Icons for each document (changes in real-time) 🌠
 - Expandable sidebar ➡️🔀⬅️
